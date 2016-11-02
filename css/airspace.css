@@ -470,9 +470,12 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-contant ul li {
   float: left;
-  width: 32.22%;
+/*  width: 32.22%;
+*/  
+  width: 48%;
   overflow: hidden;
   margin: 6px;
+  padding-top: 100px;
   position: relative;
 }
 #portfolio-work .block .portfolio-contant ul li:hover .overly {
@@ -486,19 +489,19 @@ font header .navbar-default .navbar-nav li a:hover {
   -ms-transform: translate(0%, -50%);
   transform: translate(0%, -50%);
 }
-#portfolio-work .block .portfolio-contant ul li a {
+#portfolio-work .block .portfolio-contant ul li {
   display: block;
   color: #fff;
 }
-#portfolio-work .block .portfolio-contant ul li a h2 {
+#portfolio-work .block .portfolio-contant ul li h2 {
   font-size: 22px;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
-#portfolio-work .block .portfolio-contant ul li a p {
+#portfolio-work .block .portfolio-contant ul li p {
   font-size: 15px;
 }
-#portfolio-work .block .portfolio-contant ul li a span {
+#portfolio-work .block .portfolio-contant ul li span {
   font-style: italic;
   font-size: 13px;
   color: #655E7A;
@@ -523,8 +526,10 @@ font header .navbar-default .navbar-nav li a:hover {
 #portfolio-work .block .portfolio-contant .position-center {
   position: absolute;
   top: 50%;
-  left: 10%;
-  -webkit-transform: translate(0%, 50%);
+  width: 100%;
+  padding: 1%;
+/*  left: 10%;
+*/  -webkit-transform: translate(0%, 50%);
   -moz-transform: translate(0%, 50%);
   -ms-transform: translate(0%, 50%);
   transform: translate(0%, 50%);
