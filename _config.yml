@@ -15,23 +15,22 @@ keep_files:
 
 
 # Site settings
-title: Advocate Anand Bali
-subtitle: "Anand Bali and Associates”, is a Delhi based Law Firm"
+title:  Advocate Anand Bali
+descriptions: Anand Bali and Associates, is a Delhi based Law Firm
+
+subtitle: Anand Bali and Associates, is a Delhi based Law Firm
 # Base URL of site. It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "http://www.advocateanandbaliandassociates.com" # the base hostname & protocol for your site
-baseurl: 
-cover: "/assets/cover.png"
-logo: "/assets/logo.png"
-author: anandbali
+url: http://www.advocateanandbaliandassociates.com # the base hostname & protocol for your site
+baseurl: ""
+cover: "/img/cover.png"
+logo: "/img/logo.png"
+author: "anandbali"
 # Build settings
 markdown: kramdown
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
-
-# Category descriptions (for archive pages)
-descriptions: Anand Bali and Associates, is a Delhi based Law Firm
   
