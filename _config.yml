@@ -1,4 +1,5 @@
-
+gems:
+  - jekyll-seo-tag
 exclude:
   - "/vendor/"
   - "Gemfile"
@@ -15,16 +16,16 @@ keep_files:
 
 # Site settings
 title: Advocate Anand Bali
-subtitle: "A free HTML5 agency template"
+subtitle: "Anand Bali and Associates”, is a Delhi based Law Firm"
 # Base URL of site. It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 # baseurl: "/" # the subpath of your site
-url: "" # the base hostname & protocol for your site
-baseurl: ""
+url: "http://www.advocateanandbaliandassociates.com/" # the base hostname & protocol for your site
+baseurl: 
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
-
+author: anandbali
 # Build settings
 markdown: kramdown
 
@@ -32,9 +33,5 @@ markdown: kramdown
 # ga_tracking_id: "UA-XXXX-1"
 
 # Category descriptions (for archive pages)
-descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
-
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+descriptions: Anand Bali and Associates, is a Delhi based Law Firm
+  
