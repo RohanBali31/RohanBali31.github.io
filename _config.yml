@@ -1,5 +1,3 @@
-gems:
-  - jekyll-seo-tag
 exclude:
   - "/vendor/"
   - "Gemfile"
@@ -17,7 +15,6 @@ keep_files:
 # Site settings
 title:  Advocate Anand Bali and Associates. A Delhi based Law Firm 
 descriptions: Anand Bali and Associates, is a Delhi based Law Firm
-
 subtitle: Anand Bali and Associates, is a Delhi based Law Firm
 # Base URL of site. It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
