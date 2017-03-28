@@ -280,6 +280,14 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #000;
   padding: 10px 20px;
 }
+
+#slider .btn-view-works {
+/*  background: #655E7A;
+*/  
+  background: #fff;
+  color: #000;
+  padding: 10px 20px;
+}
 /*--
 	content Start
 --*/
